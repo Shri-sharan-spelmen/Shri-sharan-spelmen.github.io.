@@ -106,7 +106,7 @@
     <h2>Educational Qualifications</h2>
     <ul>
         <li>Undergraduate – Sri Lanka Institute of Information Technology (SLIIT)</li>
-        <li>Secondary Education – [Your School Name]</li>
+        <li>Secondary Education – [OKI International School : ( Advanced level-2025),(Ordinary level-2023)]</li>
     </ul>
 </section>
 
@@ -126,14 +126,15 @@
         <li>Basic HTML & GitHub</li>
         <li>Laboratory Techniques</li>
         <li>Microsoft Office (Word, Excel, PowerPoint)</li>
-        <li>Scientific Report Writing</li>
+        <li>Scientific Laboratory Report Writing</li>
+         <li>presentation & video making</li>
         <li>Teamwork & Communication</li>
     </ul>
 </section>
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>Email: yourprofessionalemail@gmail.com</p>
+    <p>Email: Spelmenshrisharan@gmail.com</p>
     <p><a href="resume.pdf" download>Download My Resume</a></p>
 </section>
 
