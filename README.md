@@ -17,12 +17,17 @@
         header {
             background-color: #1f2937;
             color: white;
-            padding: 30px 20px;
+            padding: 40px 20px;
             text-align: center;
         }
 
         header h1 {
             margin: 0;
+            font-size: 28px;
+        }
+
+        header p {
+            margin: 5px 0;
         }
 
         nav {
@@ -77,9 +82,9 @@
 <body>
 
 <header>
-    <h1>Shri Sharan Spelmen</h1>
-    <p>Undergraduate | SLIIT</p>
-  <p><strong>Welcome to my e-Portfolio showcasing my academic work, skills, and achievements.</strong></p>
+    <h1>Hi, I'm Shri Sharan Spelmen</h1>
+    <p>Biotechnology Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</p>
+    <p><strong>Welcome to my professional portfolio website.</strong></p>
 </header>
 
 <nav>
@@ -93,7 +98,7 @@
 <section id="about">
     <h2>About Me</h2>
     <p>
-        I am an undergraduate student at Sri Lanka Institute of Information Technology (SLIIT) with a strong interest in biotechnology and technology-driven innovation. I am passionate about learning new concepts, developing practical skills, and applying scientific knowledge to real-world challenges.
+        I am an undergraduate student at Sri Lanka Institute of Information Technology (SLIIT) with a strong interest in biotechnology and technology-driven innovation. I am passionate about learning new concepts, developing practical laboratory skills, and applying scientific knowledge to real-world challenges. I am highly motivated, disciplined, and committed to continuous improvement in both academic and professional development.
     </p>
 </section>
 
@@ -101,7 +106,7 @@
     <h2>Educational Qualifications</h2>
     <ul>
         <li>Undergraduate – Sri Lanka Institute of Information Technology (SLIIT)</li>
-        <li>Secondary Education – [OkI International School]</li>
+        <li>Secondary Education – [Your School Name]</li>
     </ul>
 </section>
 
@@ -111,7 +116,7 @@
         <li>Standardization of Potassium Permanganate using Sodium Oxalate</li>
         <li>Colorimetric Analysis using Spectrophotometry</li>
         <li>Terrarium Ecosystem Study</li>
-        <li>Research on Cell Cycle Regulation</li>
+        <li>Research on Cell Cycle Regulation and Cancer Biology</li>
     </ul>
 </section>
 
@@ -120,7 +125,7 @@
     <ul>
         <li>Basic HTML & GitHub</li>
         <li>Laboratory Techniques</li>
-        <li>Microsoft Office</li>
+        <li>Microsoft Office (Word, Excel, PowerPoint)</li>
         <li>Scientific Report Writing</li>
         <li>Teamwork & Communication</li>
     </ul>
@@ -128,12 +133,12 @@
 
 <section id="contact">
     <h2>Contact</h2>
-    <p>Email: Spelmenshrisharan@gmail.com</p>
+    <p>Email: yourprofessionalemail@gmail.com</p>
     <p><a href="resume.pdf" download>Download My Resume</a></p>
 </section>
 
 <footer>
-    <p>© 2026 Shri Sharan Spelmen</p>
+    <p>© 2026 Shri Sharan Spelmen | Student ID: HS25510489</p>
 </footer>
 
 </body>
